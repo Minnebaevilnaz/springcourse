@@ -9,7 +9,7 @@
 
     <bean id="testBean"
           class="ru.minnebaev.springcourse.TestBean">
-        <constructor-arg value="Ilnaz Minnebaev"/>
+        <constructor-arg value="Ilnaz"/>
     </bean>
 
 </beans>
